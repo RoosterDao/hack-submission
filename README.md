@@ -78,5 +78,5 @@ This architecture is powerful since,
 
 
 ## Built with
-// TODO: Add frontend tech
+// TODO: Add frontend tech  
 Rust, Substrate, ChainExtensions, RMRK, Ink
