@@ -56,8 +56,9 @@ We also struggled to pass string (Non Bounded Vec) from smart contract to the pa
 Evolution of RMRK NFTs is based on the fact that collection owner replaces a resource (which is the old level) of the NFT with a new resource (the new level).
 To replace a resource, the collection owner adds a new resource and pass the ID of a resource that the NFT already has and that wants to be replaced.
 The functions on RMRK to add a new resource are "addBasicResource", "addComposableResource" and "addSlotResource".
-Passing a resource ID as a parameter to these functions is not currently implemented, so it is not possible to replace a resource directly.
-To evolve the NFT we decided to add a new resource which will have its own unique ID and then remove the previous resource of the previous level of the NFT.
+
+Passing a resource ID as a parameter to these functions is not currently implemented, so it is not possible to replace a resource using these functions.
+To evolve the NFT we decided to add a new resource which will have its own unique ID and then remove the previous resource (the previous level) of the NFT.
 
 // TODO: Other challenges?
 
