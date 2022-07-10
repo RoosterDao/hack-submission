@@ -1,7 +1,7 @@
 # Rooster DAO
 
 // TODO maybe a better picture to use here
-<center><img src="doc/img/mascot.png" alt="rooster-dao" height="200"/></center>  
+<center><img src="res/mascot.png" alt="rooster-dao" height="200"/></center>  
 
 ## Demo
 You can access the [demo website here](https://hack.dwellir.com/)  
@@ -19,10 +19,10 @@ When a member proposes an investment that turns out to be very beneficial for th
 With these two mechanisms, we create a horizontal structure where proposals are heavily incentivised with a meaningful financial reward and a visual representation of the efforts.
 
 ## Technical Overview
-![Technical Overview](doc/img/architecture.png)
+![Technical Overview](res/architecture.png)
 
 // TODO: Make changes to this
-![Smart Contract](doc/img/governance.png)
+![Smart Contract](res/governance.png)
 
 ## How we built it
 ### Contracts UI
@@ -82,7 +82,7 @@ We have learned so much over the course of hackathon. Few big things -
 ## What's next for Rooster DAO
 We have ambitions to utilise XCM to build a truly multi-chain dapp in the spirit of Polkadot and use aUSD as base currency for all transaction. We want to keep exploring and get feedback from more teams, but we have some idea of how we may look in future
 
-![Future architecture](doc/img/future-tech.png)
+![Future architecture](res/future-tech.png)
 
 This architecture is powerful since,
 - Contract Parachain could be a chain like Astar/Gear where we deploy our smart contract code that may be updated frequently.
