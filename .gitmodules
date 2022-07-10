@@ -4,3 +4,6 @@
 [submodule "rooster-dao-ui"]
 	path = rooster-dao-ui
 	url = https://github.com/RoosterDao/rooster-dao-ui.git
+[submodule "rmrk-contracts-node"]
+	path = rmrk-contracts-node
+	url = https://github.com/RoosterDao/rmrk-contracts-node.git
