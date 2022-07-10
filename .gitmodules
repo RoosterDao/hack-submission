@@ -1,0 +1,6 @@
+[submodule "rooster-contracts"]
+	path = rooster-contracts
+	url = https://github.com/RoosterDao/rooster-contracts.git
+[submodule "rooster-dao-ui"]
+	path = rooster-dao-ui
+	url = https://github.com/RoosterDao/rooster-dao-ui.git
