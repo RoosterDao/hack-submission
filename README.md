@@ -1,5 +1,12 @@
 # Rooster DAO
 
+// TODO maybe a better picture to use here
+<center><img src="doc/img/mascot.png" alt="rooster-dao" height="200"/></center>  
+
+## Demo
+You can access the [demo website here](https://hack.dwellir.com/)  
+The substrate node endpoint can also be accessed publicly at `wss://api1.dwellir.com/hack-na/rooster` via [Polkadot.js.org](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fapi1.dwellir.com%2Fhack-na%2Frooster#/)
+
 ## Inspiration
 We found some inspiration out of existing investment Dao’s on Ethereum like The Lao or Dao5.
 We felt that Polkadot has room for a good investment Dao that is solely focused on the Dotsama ecosystem, because Dotsama is becoming one of the fastest growing ecosystems that potentially become a new standard in the space.
@@ -12,10 +19,10 @@ When a member proposes an investment that turns out to be very beneficial for th
 With these two mechanisms, we create a horizontal structure where proposals are heavily incentivised with a meaningful financial reward and a visual representation of the efforts.
 
 ## Technical Overview
-![Technical Overview](architecture.png)
+![Technical Overview](doc/img/architecture.png)
 
 // TODO: Make changes to this
-![Smart Contract](governance.png)
+![Smart Contract](doc/img/governance.png)
 
 ## How we built it
 ### Contracts UI
@@ -73,16 +80,22 @@ We have learned so much over the course of hackathon. Few big things -
 - Understanding more about how substrate node works (like runtime being on-chain wasm code and easily upgradable)
 
 ## What's next for Rooster DAO
-We have ambitions to utilise XCM to build a truly multi-chain dapp in the spirit of Polkadot. We want to keep exploring and get feedback from more teams, but we have some idea of how we may look in future
+We have ambitions to utilise XCM to build a truly multi-chain dapp in the spirit of Polkadot and use aUSD as base currency for all transaction. We want to keep exploring and get feedback from more teams, but we have some idea of how we may look in future
 
-![Future architecture](future-tech.png)
+![Future architecture](doc/img/future-tech.png)
 
 This architecture is powerful since,
 - Contract Parachain could be a chain like Astar/Gear where we deploy our smart contract code that may be updated frequently.
-- We could interact with RMRK pallet on multiple parachain who choose to deploy their pallet.
+- We could interact with RMRK pallet on multiple parachain (like Acala) who choose to deploy their pallet.
 - We could utilise a Governance Pallet for our governance functions on another Parachain X. This could be for example, Zeitgeist futarchy-based governance pallet. Or may be our own custom rooster governance pallet on some parachain. A user while creating a DAO can choose which type of governance they want in the DAO.
 
 
 ## Built with
-// TODO: Add frontend tech  
+// TODO: Add frontend tech      
 Rust, Substrate, ChainExtensions, RMRK, Ink
+
+## Special Mentions
+- Astar's Chain extension demo by Pierre Ossun.
+- The guys at SuperColony/Openbrush for answering our questions about Ink.
+- Bruno from RMRK for encouraging us to use RMRK pallets.
+- Dwellir for helping us with infrastructure and supporting our team for the Hackathon
