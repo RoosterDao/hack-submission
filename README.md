@@ -33,7 +33,7 @@ We used the OpenBrush library to build the contract and used Ink! chain extensio
 
 We wrote our own Governor contract copying the functionality from the OpenZeppelin Governor and voting extensions contracts.
 Just like the OpenZeppelin implementation the Governor contract tracks proposals, delegation and votes.
-Further on it manages the NFT collection throught chain extensions.
+It interacts (internally) with the NFT Management contract.
 The execution of proposals is managed by including the OpenBrush TimelockController contract.
 
 #### NFT Management Contracts
