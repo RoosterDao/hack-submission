@@ -21,8 +21,8 @@ With these two mechanisms, we create a horizontal structure where proposals are 
 ![Technical Overview](res/architecture.png)
 
 ## How we built it
-### Contracts UI
-// TODO: Details about contracts UI
+### UI Prototype
+The demo website leverages the UI components and API utilities from Parity's [Contracts UI](https://paritytech.github.io/contracts-ui) and resembles the workflow from known DAO's platforms like [Tally](https://www.tally.xyz/). Users can create their own DAO's using the Rooster Governance Contract, create and vote on proposals and watch their NFT evolve.
 
 ### Ink/WASM smart contracts
 
@@ -92,8 +92,7 @@ This architecture is powerful since,
 
 
 ## Built with
-// TODO: Add frontend tech      
-Rust, Substrate, ChainExtensions, RMRK, Ink
+Rust, Substrate, ChainExtensions, RMRK, Ink, React, Typescript, PolkadotJS
 
 ## Special Mentions
 - Astar's Chain extension demo by Pierre Ossun.
