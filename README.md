@@ -3,13 +3,14 @@
 <center><img src="res/roosters.png" alt="rooster-dao" height="200"/></center>  
 
 ## Demo
-You can access the [demo website here](https://hack.dwellir.com/)  
-The substrate node endpoint can also be accessed publicly at `wss://api1.dwellir.com/hack-na/rooster` via [Polkadot.js.org](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fapi1.dwellir.com%2Fhack-na%2Frooster#/)
+You can access Rooster DAO Demo website at https://hack.dwellir.com/.
 
-You can find our implementation in following repositories
-- Custom Substrate Node: https://github.com/RoosterDao/rmrk-contracts-node
-- DAO UI: https://github.com/RoosterDao/rooster-dao-ui
-- Ink Smart Contracts: https://github.com/RoosterDao/rooster-contracts
+Other important links:
+- Public Substrate node endpoint: wss://api1.dwellir.com/hack-na/rooster 
+- Polkadot.js.org with our node: https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fapi1.dwellir.com%2Fhack-na%2Frooster#/
+- Custom Substrate Node Repository: https://github.com/RoosterDao/rmrk-contracts-node
+- DAO UI Repository: https://github.com/RoosterDao/rooster-dao-ui
+- Ink Smart Contracts Repository: https://github.com/RoosterDao/rooster-contracts
 
 ## Inspiration
 We found some inspiration out of existing investment Dao’s on Ethereum like The Lao or Dao5.
