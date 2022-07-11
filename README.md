@@ -1,7 +1,6 @@
 # Rooster DAO
 
-// TODO maybe a better picture to use here
-<center><img src="res/mascot.png" alt="rooster-dao" height="200"/></center>  
+<center><img src="res/roosters.png" alt="rooster-dao" height="200"/></center>  
 
 ## Demo
 You can access the [demo website here](https://hack.dwellir.com/)  
