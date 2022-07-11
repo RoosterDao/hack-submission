@@ -8,11 +8,11 @@ The substrate node endpoint can also be accessed publicly at `wss://api1.dwellir
 
 ## Inspiration
 We found some inspiration out of existing investment Dao’s on Ethereum like The Lao or Dao5.
-We felt that Polkadot has room for a good investment Dao that is solely focused on the Dotsama ecosystem, because Dotsama is becoming one of the fastest growing ecosystems that potentially become a new standard in the space.
+We felt that Polkadot has room for a good investment Dao that is solely focused on the Dotsama ecosystem, since Dotsama is becoming one of the fastest growing ecosystems that potentially could become a new standard in the space.
 
 ## What it does
 Rooster Dao is an investment fund managed as a Dao, that focusses solely on investments in the Dotsama ecosystem.
-The Dao is designed to incentivise heavily participation. It does this in two ways.
+The Dao is designed to incentivise heavily participation in the DAO. It does this in two ways.
 Each member owns an evolving NFT, the evolvement of the NFT represents the degree of participation in proposals for investment or votes on proposals. By participating, the image of a rooster gains color and levels up (see uploaded images).
 When a member proposes an investment that turns out to be very beneficial for the Dao. All members of the Dao transfer a small amount of the profits of that investment to the member who made the proposal.
 With these two mechanisms, we create a horizontal structure where proposals are heavily incentivised with a meaningful financial reward and a visual representation of the efforts.
