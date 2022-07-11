@@ -68,8 +68,6 @@ The functions on RMRK to add a new resource are "addBasicResource", "addComposab
 Passing a resource ID as a parameter to these functions is not currently implemented, so it is not possible to replace a resource using these functions.
 To evolve the NFT we decided to add a new resource which will have its own unique ID and then remove the previous resource (the previous level) of the NFT.
 
-// TODO: Other challenges?
-
 ## Accomplishments that we're proud of
 We are really proud to be able to write our business logic in Ink instead of solidity and also trustlessly being able to interact/evolve RMRK NFTs instead of using a centralised solution. 
 
