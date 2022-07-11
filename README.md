@@ -20,9 +20,6 @@ With these two mechanisms, we create a horizontal structure where proposals are 
 ## Technical Overview
 ![Technical Overview](res/architecture.png)
 
-// TODO: Make changes to this
-![Smart Contract](res/governance.png)
-
 ## How we built it
 ### Contracts UI
 // TODO: Details about contracts UI
