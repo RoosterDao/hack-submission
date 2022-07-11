@@ -25,11 +25,16 @@ With these two mechanisms, we create a horizontal structure where proposals are 
 // TODO: Details about contracts UI
 
 ### Ink/WASM smart contracts
-We wanted to hack with Ink/Wasm smart contracts since we believe it is the future (and we wanted to have some fun!). 
-We wrote our own governance contract, used it with Openbrush timelock and wrote ink chain extension functions to interact with RMRK Pallet. 
+
+We wanted to hack with Ink/Wasm smart contracts since we believe it is the future (and we wanted to have some fun!).
+We used the OpenBrush library to build the contract and used Ink! chain extensions to interact with the RMRK Pallet.
 
 #### Governance Contracts
-// TODO: Details about governance
+
+We wrote our own Governor contract copying the functionality from the OpenZeppelin Governor and voting extensions contracts.
+Just like the OpenZeppelin implementation the Governor contract tracks proposals, delegation and votes.
+Further on it manages the NFT collection throught chain extensions.
+The execution of proposals is managed by including the OpenBrush TimelockController contract.
 
 #### NFT Management Contracts
 We used chain extensions to interact with rmrk pallet in order to 
