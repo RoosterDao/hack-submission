@@ -92,7 +92,15 @@ This architecture is powerful since,
 
 
 ## Built with
-Rust, Substrate, ChainExtensions, RMRK, Ink, React, Typescript, PolkadotJS
+- Rust
+- Substrate
+- ChainExtensions
+- RMRK
+- Ink
+- OpenBrush
+- React
+- Typescript
+- PolkadotJS
 
 ## Special Mentions
 - Astar's Chain extension demo by Pierre Ossun.
