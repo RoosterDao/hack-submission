@@ -6,6 +6,11 @@
 You can access the [demo website here](https://hack.dwellir.com/)  
 The substrate node endpoint can also be accessed publicly at `wss://api1.dwellir.com/hack-na/rooster` via [Polkadot.js.org](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fapi1.dwellir.com%2Fhack-na%2Frooster#/)
 
+You can find our implementation in following repositories
+- Custom Substrate Node: https://github.com/RoosterDao/rmrk-contracts-node
+- DAO UI: https://github.com/RoosterDao/rooster-dao-ui
+- Ink Smart Contracts: https://github.com/RoosterDao/rooster-contracts
+
 ## Inspiration
 We found some inspiration out of existing investment Dao’s on Ethereum like The Lao or Dao5.
 We felt that Polkadot has room for a good investment Dao that is solely focused on the Dotsama ecosystem, since Dotsama is becoming one of the fastest growing ecosystems that potentially could become a new standard in the space.
