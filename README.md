@@ -79,7 +79,7 @@ We have learned so much over the course of hackathon. Few big things -
 - Understanding more about how substrate node works (like runtime being on-chain wasm code and easily upgradable)
 
 ## What's next for Rooster DAO
-We have ambitions to utilise XCM to build a truly multi-chain dapp in the spirit of Polkadot and use aUSD as base currency for all transaction. We want to keep exploring and get feedback from more teams, but we have some idea of how we may look in future
+We have ambitions to utilise XCM to build a truly multi-chain dapp in the spirit of Polkadot and use aUSD as base currency for minting of NFTs. We want to keep exploring and get feedback from more teams, but we have some idea of how we may look in future
 
 ![Future architecture](res/future-tech.png)
 
