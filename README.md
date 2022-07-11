@@ -102,6 +102,7 @@ This architecture is powerful since,
 
 ## Special Mentions
 - Astar's Chain extension demo by Pierre Ossun.
+- Bryan Chen from Acala for advising us on how to go about the hackathon.
 - The guys at SuperColony/Openbrush for answering our questions about Ink.
 - Bruno from RMRK for encouraging us to use RMRK pallets.
 - Dwellir for helping us with infrastructure and supporting our team for the Hackathon
