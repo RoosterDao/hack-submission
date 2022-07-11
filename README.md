@@ -3,10 +3,10 @@
 <center><img src="res/roosters.png" alt="rooster-dao" height="200"/></center>  
 
 ## Demo
-You can access Rooster DAO Demo website at https://hack.dwellir.com/.
+The demo Rooster DAO UI is hosted at https://hack.dwellir.com/.
 
-Other important links:
-- Public Substrate node endpoint: wss://api1.dwellir.com/hack-na/rooster 
+### Other important links:
+- Public Substrate node endpoint: `wss://api1.dwellir.com/hack-na/rooster` 
 - Polkadot.js.org with our node: https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fapi1.dwellir.com%2Fhack-na%2Frooster#/
 - Custom Substrate Node Repository: https://github.com/RoosterDao/rmrk-contracts-node
 - DAO UI Repository: https://github.com/RoosterDao/rooster-dao-ui
