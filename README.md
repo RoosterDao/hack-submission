@@ -77,6 +77,10 @@ To evolve the NFT we decided to add a new resource which will have its own uniqu
 ## Accomplishments that we're proud of
 We are really proud to be able to write our business logic in Ink instead of solidity and also trustlessly being able to interact/evolve RMRK NFTs instead of using a centralised solution. 
 
+We hope that this project can serve as a starting point for WASM based DOA's and help or inspires other teams to continue building from it.
+
+For a number of team members this was a first participation to a hackaton, so that's an accomplishment as well :-)
+
 ## What we learned
 We have learned so much over the course of hackathon. Few big things -
 - Using ink smart contracts
